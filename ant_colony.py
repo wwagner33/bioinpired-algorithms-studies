@@ -1,3 +1,9 @@
+# Explanation:
+# 1. Ants: The ants move around the screen, leaving behind pheromone trails.
+# 2. Pheromones: Simplistically, the ants follow existing pheromone trails.
+# 3. Food: The food is randomly distributed on the screen, and ants can be programmed to search for it,
+#    but here we are focusing only on movement and pheromone deposition.
+
 import pygame
 import random
 import math
