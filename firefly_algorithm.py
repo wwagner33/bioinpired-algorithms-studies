@@ -1,3 +1,9 @@
+# Explanation:
+# 1. Fireflies: Each firefly has a light intensity and moves randomly across the screen.
+# 2. Attraction: Fireflies with higher light intensity attract those with lower intensity, simulating natural behavior where fireflies follow light signals.
+# 3. Movement: The movement is chaotic at first, but over time the fireflies tend to cluster around the brightest ones.
+
+
 import pygame
 import random
 import math
