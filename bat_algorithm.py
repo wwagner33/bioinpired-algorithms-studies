@@ -1,3 +1,9 @@
+# Explanation:
+# 1. Bats: Move around the screen, adjusting direction based on their pulse frequency.
+# 2. Echolocation: Bats locate targets based on distance and adjust their direction to chase them, simulating hunting behavior.
+# 3. Targets: Randomly distributed on the screen, representing prey that bats attempt to capture.
+
+
 import pygame
 import random
 import math
