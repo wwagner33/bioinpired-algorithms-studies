@@ -1,3 +1,9 @@
+# Explanation:
+# 1. Wolves: There is an alpha wolf that leads the hunt toward the prey. The following wolves adjust their positions by following the alpha.
+# 2. Prey: The prey is positioned at a fixed point on the screen. The wolves' behavior is to encircle the prey as they approach.
+# 3. Collective Movement: The algorithm shows the group's hunting behavior, with wolves following the alpha's lead to encircle and capture the prey.
+
+
 import pygame
 import random
 import math
