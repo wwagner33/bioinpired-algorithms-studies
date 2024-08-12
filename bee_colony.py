@@ -1,3 +1,9 @@
+# Explanation:
+# 1. Bees: The bees move randomly around the screen and, when they approach a flower, they change their behavior to return to the point of origin.
+# 2. Flowers: Flowers are randomly distributed on the screen, representing nectar sources that bees seek.
+# 3. Nectar Search: The bees alter their search behavior to exploration, returning to the origin point after finding a flower.
+
+
 import pygame
 import random
 import math
